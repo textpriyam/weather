@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wingu</string>
+
+    <!--Tab titles-->
+    <string name="tab_title_today">Today</string>
+    <string name="tab_title_tomorrow">Tomorrow</string>
+
+    <!--Default/Fallback Strings-->
+    <string name="default_error_message">Oops! Something Went Wrong :(</string>
+    <string name="weather_icon_content_description">Weather Icon</string>
+    <string name="menu_title_search">Search</string>
+</resources>
